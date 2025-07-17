@@ -75,12 +75,8 @@ This repository covers three major NLP tasks:
 - **Model checkpoint** after training.  
 - **Loss curve visualization**.  
 - **Identified token triplets** based on cosine similarity.  
-
-**Loss Graph Output:**  
-![Task 2 Loss Curve](src/task2.png)  
-
-**Token Similarity Example:**  
-![Token Similarity](src/tokenSimilarity.png)  
+- **Loss Graph Output:**  
+- **Token Similarity Example:**  
 
 ---
 
