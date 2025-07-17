@@ -1,0 +1,11 @@
+torch
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+# For regular expressions and JSON (standard library, but listed for clarity)
+# re
+# json
+# If using Jupyter Notebooks
+# notebook

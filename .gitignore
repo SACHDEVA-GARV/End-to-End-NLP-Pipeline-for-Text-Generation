@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Data/model files
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.npz
+*.npy
+*.csv
+*.tsv
+*.json
+*.log
+*.db
+*.sqlite
+*.pkl
+*.joblib
+*.tar.gz
+*.zip
+*.tar
+*.gz
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test outputs
+*.out
+*.err
+*.log
+
+# Misc
+*.swp
+*~
